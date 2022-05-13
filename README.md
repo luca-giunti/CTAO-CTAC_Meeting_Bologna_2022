@@ -2,7 +2,7 @@
 
 ## Installation and set-up 
 
-## We reccomend that you install gammapy via conda
+## We recommend that you install gammapy via conda
 
 $ curl -O https://gammapy.org/download/install/gammapy-0.20-environment.yml
 $ conda env create -f gammapy-0.20-environment.yml
