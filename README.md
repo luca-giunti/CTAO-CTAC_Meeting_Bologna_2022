@@ -29,8 +29,10 @@ If the cells run without any error and prints `105`, **Congratulations! You have
 
 ## Tutorials to be shown
 ### Spectral analysis of PKS 2155-304:
+Specify contents TBD
 -   1D data reduction
 -   Fitting
 ### 3D analysis of MSH 15-52 
+Specify contents TBD
 -   3D data reduction
 -   Fitting
