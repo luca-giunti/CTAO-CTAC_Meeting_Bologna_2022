@@ -4,15 +4,15 @@
 
 ## We recommend that you install gammapy via conda
 
-$ curl -O https://gammapy.org/download/install/gammapy-0.20-environment.yml
-$ conda env create -f gammapy-0.20-environment.yml
-$ conda activate gammapy-0.20
+- $ curl -O https://gammapy.org/download/install/gammapy-0.20-environment.yml
+- $ conda env create -f gammapy-0.20-environment.yml
+- $ conda activate gammapy-0.20
 
 To download the tutorials and associated datasets (necessary for the tutorials in this workshop)
 
-$ gammapy download notebooks --release 0.20
-$ gammapy download datasets
-$ export GAMMAPY_DATA=$PWD/gammapy-datasets
+- $ gammapy download notebooks --release 0.20
+- $ gammapy download datasets
+- $ export GAMMAPY_DATA=$PWD/gammapy-datasets
 
 To check if everything is working fine, open a new terminal and type
 
