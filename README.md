@@ -28,9 +28,9 @@ In the ipython window, type
 If the cells run without any error and prints `105`, **Congratulations! You have correctly set-up gammapy**
 
 ## Tutorials to be shown
-- Spectral analysis of PKS 2155-304:
+### Spectral analysis of PKS 2155-304:
 -   1D data reduction
 -   Fitting
-- 3D analysis of MSH 15-52 
+### 3D analysis of MSH 15-52 
 -   3D data reduction
 -   Fitting
