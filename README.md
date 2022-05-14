@@ -29,6 +29,6 @@ If the cells run without any error and prints `105`, **Congratulations! You have
 
 ## Tutorials to be shown
 ### Spectral analysis of PKS 2155-304:
-Specify contents TBD
+A full 1D (spectral) analysis from A to Z for a point-like extra-Galactic source.
 ### 3D analysis of MSH 15-52 
-A full 3D analysis from A to Z for an extended source.
+A full 3D analysis from A to Z for an extended Galactic source.
