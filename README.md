@@ -1,3 +1,6 @@
+![logo](https://user-images.githubusercontent.com/47325742/168477383-02da7605-7c47-4b60-aafa-6dbb72b6eb91.png)
+
+
 # Hands-on session on VHE data analysis using Gammapy
 
 ## Installation and set-up 
