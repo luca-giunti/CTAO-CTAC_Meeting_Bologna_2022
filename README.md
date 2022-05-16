@@ -51,7 +51,7 @@ Finally, to get the tutorials for this hands-on gammapy session you can clone th
 git clone https://github.com/luca-giunti/CTAO-CTAC_Meeting_Bologna_2022.git
 ```
 
-You can then  open the tutorials:
+You access the tutorials:
 
 ```
 cd CTAO-CTAC_Meeting_Bologna_2022
