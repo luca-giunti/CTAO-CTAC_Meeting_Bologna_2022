@@ -55,7 +55,7 @@ To access the tutorials:
 
 ```
 cd CTAO-CTAC_Meeting_Bologna_2022
-jupyter notebook 
+jupyter lab 
 ```
 
 ## Tutorials to be shown
