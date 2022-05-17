@@ -26,14 +26,19 @@ gammapy download datasets
 export GAMMAPY_DATA=$PWD/gammapy-datasets
 ```
 
-To check if everything is working fine, open a new terminal and type
+To check that the gammapy environment is working fine, open a new terminal and type
 
 ```
 conda activate gammapy-0.20
+gammapy info
+```
+To further check that you have correctly set up the data folder type
+
+```
 ipython
 ```
 
-In the ipython window, type
+Then in the ipython window, type
 ```
 from gammapy.data import DataStore
 ds = DataStore.from_dir("$GAMMAPY_DATA/hess-dl3-dr1")
